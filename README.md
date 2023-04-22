@@ -7,4 +7,4 @@ Possível produto: Um app que te ajuda a se organizar para "tirar" sonecas duran
 
 Este é um projeto fictício que foi desenvolvido para exame no curso "Jornada UX Designer", do professor Rodrigo Alexandre, da plataforma de estudos DIO.
 
-Link para acesso ao projeto: https://www.figma.com/community/file/1231499172721016353
+Link para acesso ao projeto: https://www.figma.com/community/file/1231718300026265362
